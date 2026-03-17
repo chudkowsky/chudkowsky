@@ -1,2 +1,4 @@
 master cs 1/2
-chudkowsky.com
+
+
+https://chudkowsky.com
